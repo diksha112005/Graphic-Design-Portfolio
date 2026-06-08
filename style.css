@@ -378,6 +378,7 @@ p section-tag {
     display: grid;
     justify-content: center;
     /* align-items: flex-start; */
+    grid-template-columns: repeat(5, 1fr);
     gap: 40px;
     flex-wrap: nowrap;
     /* width: 100%; */
