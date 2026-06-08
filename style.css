@@ -2,14 +2,12 @@
     padding: 0%;
     margin: 0%;
     box-sizing: border-box;
-    overflow-x: hidden;
 }
 
 body {
     color: #483129;
     background-color: #FDF5F3;
     font-family: Arial, Helvetica, sans-serif;
-    overflow-x: hidden;
     width: 100%;
 }
 
